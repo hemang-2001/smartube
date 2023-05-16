@@ -85,4 +85,18 @@ a {
   .search-bar{
     width:200px;
   }
+
+}
+
+@media screen and (max-width: 500px) {
+  .scroll-horizontal {
+    overflow: auto !important;
+  }
+  .react-player {
+    height: 35vh !important;
+  }
+  .search-bar{
+    width: 150px;
+  }
+
 }

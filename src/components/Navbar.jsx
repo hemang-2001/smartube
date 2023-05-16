@@ -2,24 +2,17 @@ import { Stack } from '@mui/material';
 import { Link } from 'react-router-dom';
 
 import { logo } from '../utils/constants';
-import SearchBar from './SearchBar';
+import { SearchBar } from "./" ;
 
 
-const Navbar = () => {
-  return (
-    <Stack direction="row" 
-    alignItems="center" 
-    p={2} 
-    sx={{position: 'sticky', background:'#000', top: 0, justifyContent: 'space-between' }}
-    >
-
+const Navbar = () => (
+    <Stack direction="row" alignItems="center" p={2} sx={{position: 'sticky', background:'#000', top: 0, justifyContent: 'space-between' }} >
     <Link to="/" style={{ display: 'flex', alignItems: 'center' }}>
-    <img src={logo} alt='logo' width={250} height={40} />
-   
+      <img src={logo} alt='logo' width={200} height={35} />
     </Link>
     <SearchBar />
     </Stack>
-  )
-}
+  );
 
-export default Navbar
+
+export default Navbar;
