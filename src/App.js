@@ -7,14 +7,14 @@ const App = () => (
     <BrowserRouter>
     <Box sx={{ backgroundColor: '#000' }}>
         <Navbar />
-        <routes>
+        <Routes>
            
-           <route path="/" exact element={<Feed />} />
-           <route path="/video/:id" element={<VideoDetail />} />
-           <route path="/Channel/:id" element={<ChannelDetail />} />
-           <route path="/Search/:searchTerm" element={<SearchFeed />} />
+           <Route path="/" exact element={<Feed />} />
+           <Route path="/video/:id" element={<VideoDetail />} />
+           <Route path="/Channel/:id" element={<ChannelDetail />} />
+           <Route path="/Search/:searchTerm" element={<SearchFeed />} />
         
-        </routes>
+        </Routes>
     </Box>
     </BrowserRouter>
 )
