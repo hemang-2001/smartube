@@ -16,7 +16,7 @@ export const logo ='https://i.ibb.co/5vXTk6X/logo-no-background.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Latests', icon: <HomeIcon />, },
+  { name: 'LeetCode Solutions', icon: <HomeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },

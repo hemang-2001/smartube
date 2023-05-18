@@ -66,11 +66,17 @@ a {
   .category-btn{
     margin: 10px;
   }
+  .search-bar{
+    width:200px;
+  }
 }
 
 @media screen and (max-width:800px){
   .copyright{
     display:none !important;
+  }
+  .search-bar{
+    width:200px;
   }
 }
 
@@ -97,6 +103,20 @@ a {
   }
   .search-bar{
     width: 150px;
+  }
+
+}
+
+@media screen and (max-width: 649px) {
+  .scroll-horizontal {
+    overflow: auto !important;
+  }
+
+  .react-player {
+    height: 45vh !important;
+  }
+  .search-bar{
+    width:200px;
   }
 
 }
