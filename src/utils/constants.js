@@ -12,7 +12,7 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo ='https://i.ibb.co/5vXTk6X/logo-no-background.png';
+export const logo ='https://i.ibb.co/sgDQvKr/st-high-resolution-logo-color-on-transparent-background-1.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
