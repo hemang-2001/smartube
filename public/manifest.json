@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Smartube",
+  "name": "An Youtube Clone with extra features.",
   "icons": [
     {
       "src": "favicon.ico",
