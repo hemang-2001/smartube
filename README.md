@@ -47,9 +47,9 @@ In summary, SmarTube is a comprehensive YouTube clone that leverages the power o
 
 
 <h3 align="center">Desktop View</h3>
-![Screen Shot]("https://i.ibb.co/XWPDhQT/screencapture-smartube-vercel-app-2023-06-05-20-38-11.png?raw=true")
+![Screen Shot](https://i.ibb.co/XWPDhQT/screencapture-smartube-vercel-app-2023-06-05-20-38-11.png "Desktop view")
 <h3 align="center">Mobile View</h3>
-![Mobile View]("https://i.ibb.co/wKCDP8Q/mod-home.jpg?raw=true")
+![Mobile View](https://i.ibb.co/wKCDP8Q/mod-home.jpg "Mobile View")
 
 
 
