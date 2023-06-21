@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/hemang-2001/smartube">
-    <img src="https://i.ibb.co/sgDQvKr/st-high-resolution-logo-color-on-transparent-background-1.png" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/sgDQvKr/st-high-resolution-logo-color-on-transparent-background-1.png" alt="Logo" width="80" height="60">
   </a>
 
   <h3 align="center">SmarTube</h3>
@@ -47,9 +47,9 @@ In summary, SmarTube is a comprehensive YouTube clone that leverages the power o
 
 
 <h3 align="center">Desktop View</h3>
-![Screen Shot]("https://i.ibb.co/XWPDhQT/screencapture-smartube-vercel-app-2023-06-05-20-38-11.png")
+![Screen Shot]("https://i.ibb.co/XWPDhQT/screencapture-smartube-vercel-app-2023-06-05-20-38-11.png?raw=true")
 <h3 align="center">Mobile View</h3>
-![Mobile View]("https://i.ibb.co/wKCDP8Q/mod-home.jpg")
+![Mobile View]("https://i.ibb.co/wKCDP8Q/mod-home.jpg?raw=true")
 
 
 
