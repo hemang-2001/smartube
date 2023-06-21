@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+<br/>
+<p align="center">
+  <a href="https://github.com/hemang-2001/smartube">
+    <img src="https://i.ibb.co/sgDQvKr/st-high-resolution-logo-color-on-transparent-background-1.png" alt="Logo" width="80" height="80">
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3 align="center">SmarTube</h3>
 
-## Available Scripts
+  <p align="center">
+    An Awesome youtube clone!! 
+    <br/>
+    <br/>
+    <a href="https://github.com/hemang-2001/smartube"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://smartube.vercel.app/">View Demo</a>
+    .
+    <a href="https://github.com/hemang-2001/smartube/issues">Report Bug</a>
+    .
+    <a href="https://github.com/hemang-2001/smartube/issues">Request Feature</a>
+  </p>
+</p>
 
-In the project directory, you can run:
+![Downloads](https://img.shields.io/github/downloads/hemang-2001/smartube/total) ![Contributors](https://img.shields.io/github/contributors/hemang-2001/smartube?color=dark-green) ![Issues](https://img.shields.io/github/issues/hemang-2001/smartube) ![License](https://img.shields.io/github/license/hemang-2001/smartube) 
 
-### `npm start`
+## Table Of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Authors](#authors)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About The Project
+SmarTube, our YouTube clone developed using ReactJS, JavaScript, CSS, HTML, RapidAPI, and Material UI, offers a robust and feature-rich platform for video sharing and consumption. With its powerful combination of technologies, SmarTube provides users with a seamless and enjoyable experience akin to the original YouTube.
 
-### `npm test`
+Utilizing ReactJS, SmarTube delivers a highly responsive and interactive user interface that allows for effortless navigation and exploration of videos. The integration of Material UI components ensures a visually appealing and intuitive design, enhancing the overall user experience.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The use of JavaScript, CSS, and HTML allows for the creation of dynamic and engaging web pages, providing users with a familiar and immersive browsing experience. RapidAPI integration allows for seamless access to YouTube's extensive database of videos, enabling users to search, watch, and interact with a vast array of content.
 
-### `npm run build`
+SmarTube includes a range of essential features found on YouTube, such as video playback, likes, comments, and sharing options. Additionally, the platform incorporates personalized recommendations based on users' viewing history, offering a curated selection of content tailored to their interests.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Furthermore, SmarTube's user authentication system enables users to create accounts, log in, and manage their profiles. This functionality allows for a personalized experience, including subscribing to favorite channels and receiving notifications for new uploads.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+In summary, SmarTube is a comprehensive YouTube clone that leverages the power of ReactJS, JavaScript, CSS, HTML, RapidAPI, and Material UI to provide users with a visually appealing, user-friendly, and feature-rich video-sharing platform. Whether you're a content creator or a viewer, SmarTube aims to replicate the essence of YouTube while delivering a seamless and enjoyable experience for all.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<h3 align="center">Desktop View</h3>
+![Screen Shot](https://i.ibb.co/XWPDhQT/screencapture-smartube-vercel-app-2023-06-05-20-38-11.png)
+<h3 align="center">Mobile View</h3>
+![Mobile View](https://i.ibb.co/wKCDP8Q/mod-home.jpg)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Built With
 
-## Learn More
+This project is build with HTML, CSS, javaScript, ReactJS, MaterialUI & RapidAPI.
+## Getting Started
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Clone this project repo and run npm start in comand prompt in project folder.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Prerequisites
+You need to know the basics of HTML, CSS, JavaScript, and ReactJS.
 
-### Code Splitting
+* npm
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```sh
+npm install npm@latest -g
+```
 
-### Analyzing the Bundle Size
+### Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Get a free API Key at [https://rapidapi.com](https://rapidapi.com)
 
-### Making a Progressive Web App
+2. Clone the repo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```sh
+git clone https://github.com/hemang-2001/smartube.git
+```
 
-### Advanced Configuration
+3. Install NPM packages
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```sh
+npm install
+```
 
-### Deployment
+4. Enter your API in `config.js`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```JS
+const API_KEY = 'ENTER YOUR API';
+```
 
-### `npm run build` fails to minify
+### Creating A Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/smartube`)
+3. Commit your Changes (`git commit -m 'Add some smartube'`)
+4. Push to the Branch (`git push origin feature/smartube`)
+5. Open a Pull Request
+
+## Authors
+
+* **Hemang Bairwa** - *Comp Science Engineering Student* - [Hemang Bairwa](https://github.com/hemang-2001/) - *SmarTube*
+**************
