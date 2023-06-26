@@ -47,11 +47,9 @@ In summary, SmarTube is a comprehensive YouTube clone that leverages the power o
 
 
 <h3 align="center">DESKTOP VIEW</h3>
-![HOME](https://raw.githubusercontent.com/hemang-2001/data-base/main/screencapture-smartube-vercel-app-2023-06-05-20_38_11.png)
+<a href="url"><img src="https://raw.githubusercontent.com/hemang-2001/data-base/main/screencapture-smartube-vercel-app-2023-06-05-20_38_11.png" width="75%" ></a>
 <h3 align="center">MOBILE VIEW</h3>
-![MOB-HOME](https://raw.githubusercontent.com/hemang-2001/data-base/main/mod%20home.jpg)
-
-
+<a href="url"><img src="https://raw.githubusercontent.com/hemang-2001/data-base/main/mod%20home.jpg"  width="50%" ></a>
 
 
 ## Built With
