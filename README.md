@@ -21,7 +21,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/hemang-2001/smartube/total) ![Contributors](https://img.shields.io/github/contributors/hemang-2001/smartube?color=dark-green) ![Issues](https://img.shields.io/github/issues/hemang-2001/smartube) ![License](https://img.shields.io/github/license/hemang-2001/smartube) 
+![Contributors](https://img.shields.io/github/contributors/hemang-2001/smartube?color=dark-green) ![Issues](https://img.shields.io/github/issues/hemang-2001/smartube) ![License](https://img.shields.io/github/license/hemang-2001/smartube) 
 
 ## Table Of Contents
 
@@ -46,10 +46,10 @@ Furthermore, SmarTube's user authentication system enables users to create accou
 In summary, SmarTube is a comprehensive YouTube clone that leverages the power of ReactJS, JavaScript, CSS, HTML, RapidAPI, and Material UI to provide users with a visually appealing, user-friendly, and feature-rich video-sharing platform. Whether you're a content creator or a viewer, SmarTube aims to replicate the essence of YouTube while delivering a seamless and enjoyable experience for all.
 
 
-<h3 align="center">Desktop View</h3>
-<img src="[https://i.ibb.co/XWPDhQT/screencapture-smartube-vercel-app-2023-06-05-20-38-11.png](https://i.ibb.co/XWPDhQT/screencapture-smartube-vercel-app-2023-06-05-20-38-11.png)">
-<h3 align="center">Mobile View</h3>
-<img src="[https://i.ibb.co/wKCDP8Q/mod-home.jpg](https://i.ibb.co/wKCDP8Q/mod-home.jpg)">
+<h3 align="center">DESKTOP VIEW</h3>
+![HOME](https://raw.githubusercontent.com/hemang-2001/data-base/main/screencapture-smartube-vercel-app-2023-06-05-20_38_11.png)
+<h3 align="center">MOBILE VIEW</h3>
+![MOB-HOME](https://raw.githubusercontent.com/hemang-2001/data-base/main/mod%20home.jpg)
 
 
 
