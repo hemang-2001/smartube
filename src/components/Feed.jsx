@@ -18,7 +18,7 @@ const Feed = () => {
  
 
   return (
-    <Stack sx={{ flexDirection: { sx: "column", md: "row" ,alignItems: center } }}>
+    <Stack sx={{ flexDirection: { sx: "column", md: "row" } }}>
       <Box
         sx={{
           height: { sx: 'auto', md: '92vh' },
