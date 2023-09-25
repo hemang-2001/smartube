@@ -40,9 +40,7 @@ Utilizing ReactJS, SmarTube delivers a highly responsive and interactive user in
 
 The use of JavaScript, CSS, and HTML allows for the creation of dynamic and engaging web pages, providing users with a familiar and immersive browsing experience. RapidAPI integration allows for seamless access to YouTube's extensive database of videos, enabling users to search, watch, and interact with a vast array of content.
 
-SmarTube includes a range of essential features found on YouTube, such as video playback, likes, comments, and sharing options. Additionally, the platform incorporates personalized recommendations based on users' viewing history, offering a curated selection of content tailored to their interests.
-
-Furthermore, SmarTube's user authentication system enables users to create accounts, log in, and manage their profiles. This functionality allows for a personalized experience, including subscribing to favorite channels and receiving notifications for new uploads.
+SmarTube includes a range of essential features found on YouTube, such as video playback, offering a curated selection of content tailored to their interests.
 
 In summary, SmarTube is a comprehensive YouTube clone that leverages the power of ReactJS, JavaScript, CSS, HTML, RapidAPI, and Material UI to provide users with a visually appealing, user-friendly, and feature-rich video-sharing platform. Whether you're a content creator or a viewer, SmarTube aims to replicate the essence of YouTube while delivering a seamless and enjoyable experience for all.
 
