@@ -7,7 +7,7 @@
   <h3 align="center">SmarTube</h3>
 
   <p align="center">
-    An Awesome youtube clone!! 
+    An Awesome youtube clone!!  | please Start the Repo
     <br/>
     <br/>
     <a href="https://github.com/hemang-2001/smartube"><strong>Explore the docs »</strong></a>
