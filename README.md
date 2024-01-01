@@ -99,5 +99,5 @@ const API_KEY = 'ENTER YOUR API';
 
 ## Authors
 
-* **Hemang Bairwa** - *Comp Science Engineering Student* - [Hemang Bairwa](https://github.com/hemang-2001/) - *SmarTube*
+* **Hemang Bairwa** - *Computer Science Engineering Student* - [Hemang Bairwa](https://github.com/hemang-2001/) - *SmarTube*
 **************
