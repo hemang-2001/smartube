@@ -23,6 +23,7 @@
 
 ![Contributors](https://img.shields.io/github/contributors/hemang-2001/smartube?color=dark-green) ![Issues](https://img.shields.io/github/issues/hemang-2001/smartube) [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=smartube)
+![Discord Shield](https://discord.com/api/guilds/1294614672934178866/widget.png?style=shield)
 
 ## Table Of Contents
 
